@@ -9,5 +9,7 @@ Inclide "tea"
 Incluse "milk"
 
 Include " butter milk"
+
+Include " curd and Curdrice"
 end
 
