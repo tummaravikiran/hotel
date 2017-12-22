@@ -10,6 +10,15 @@ Incluse "milk"
 
 Include " butter milk"
 
+<<<<<<< HEAD
 Include " curd and Curdrice"
+=======
+Include " curd and Curdrice "
+
+Include " sambar rice "
+
+Include " gobi Rice"
+
+>>>>>>> infosys
 end
 
