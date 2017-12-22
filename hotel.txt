@@ -9,5 +9,12 @@ Inclide "tea"
 Incluse "milk"
 
 Include " butter milk"
+
+Include " curd and Curdrice "
+
+Include " sambar rice "
+
+Include " gobi Rice"
+
 end
 
